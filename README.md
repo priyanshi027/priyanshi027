@@ -13,7 +13,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=priyanshi027&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+
 
 </div>
 
